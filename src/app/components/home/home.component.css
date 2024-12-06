@@ -1,0 +1,10 @@
+.latest-event {
+    color: #ffffff; /* Change the color to an orange shade, similar to the button gradient */
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Adds a background to make it stand out */
+    padding: 5px;
+    border-radius: 5px;
+  }

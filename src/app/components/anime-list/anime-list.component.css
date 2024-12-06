@@ -1,0 +1,24 @@
+  .anime-button {
+    background-color: #ff4500; /* Vibrant orange background */
+    color: white; /* White text for contrast */
+    padding: 10px 20px; /* Comfortable padding */
+    margin-top: 15px; /* Add space above the button */
+    border: none; /* Remove default border */
+    border-radius: 25px; /* Rounded button for "play" vibe */
+    cursor: pointer; /* Pointer cursor for interaction */
+    font-size: 18px; /* Larger text for visibility */
+    font-weight: bold; /* Bold text for emphasis */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+  }
+
+  .anime-button:hover {
+    background-color: #e63900; /* Darker orange on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  .caption-inner {
+    text-align: center; /* Center-align the text */
+    margin-top: 10px;
+  }
